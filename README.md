@@ -39,3 +39,9 @@ It supports multiple control modes like cyclic operation, density-based control,
 
 ## 👩‍💻 Author
 Bhoomika H M
+## 📫 Contact
+
+- 👩‍💻 Name: Bhoomika H M  
+- 🔗 LinkedIn: https://www.linkedin.com/in/bhoomikahm
+- 📧 Email: bhoomikashetty666@gmail.com  
+
